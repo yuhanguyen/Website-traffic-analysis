@@ -24,12 +24,14 @@ Objective:
 
 This project uses Google BigQuery SQL platform to explore ecommerce dataset from Google Analytics to:
 
-✔️ Analyze the traffic of the ecommerce website
+✔️ Analyze the traffic of the ecommerce website.
+
 ✔️ Identify the behavior in customers who visit the website.
 
 👤 Who is this project for?
 
 ✔️ Data analysts & business analysts
+
 ✔️ Decision-makers & stakeholders
 
 ## II. Requirement
