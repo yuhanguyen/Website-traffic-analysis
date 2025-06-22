@@ -20,7 +20,6 @@ Tools used: SQL(Google BigQuery)
 ## I. Introduction
 
 Objective:
-📖 What is this project about? What Business Question will it solve?
 
 This project uses Google BigQuery SQL platform to explore ecommerce dataset from Google Analytics to:
 
