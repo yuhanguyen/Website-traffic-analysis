@@ -18,7 +18,19 @@ Tools used: SQL(Google BigQuery)
 
 
 ## I. Introduction
-In this project, I will use Google BigQuery as my SQL platform to perform task such as data manipulation, joining data to explore the E-commerce dataset. This dataset is a public dataset by Google Analytics and contain data from an E-commerce Website.
+
+Objective:
+📖 What is this project about? What Business Question will it solve?
+
+This project uses Google BigQuery SQL platform to explore ecommerce dataset from Google Analytics to:
+
+✔️ Analyze the traffic of the ecommerce website
+✔️ Identify the behavior in customers who visit the website.
+
+👤 Who is this project for?
+
+✔️ Data analysts & business analysts
+✔️ Decision-makers & stakeholders
 
 ## II. Requirement
 + Google Cloud Platform account
