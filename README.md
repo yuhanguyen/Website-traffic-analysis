@@ -4,11 +4,11 @@ Used Google BigQuery to solve problems such as joining data, data manipulation f
 ## Table of Contents
 [I. Introduction](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#i-introduction)
 
-II. Requirement
+[II. Requirement](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#ii-requirement)
 
-III. Dataset Access
+[III. Dataset Access]()
 
-IV. Explore the dataset
+[IV. Explore the dataset]()
 
 
 ## I. Introduction
