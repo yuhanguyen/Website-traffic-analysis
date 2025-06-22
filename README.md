@@ -2,10 +2,14 @@
 Used Google BigQuery to solve problems such as joining data, data manipulation from the E-commerce dataset.
 
 ## Table of Contents
-I. Introduction
+[I. Introduction](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#i-introduction)
+
 II. Requirement
+
 III. Dataset Access
+
 IV. Explore the dataset
+
 
 ## I. Introduction
 In this project, I will use Google BigQuery as my SQL platform to perform task such as data manipulation, joining data to explore the E-commerce dataset. This dataset is a public dataset by Google Analytics and contain data from an E-commerce Website.
