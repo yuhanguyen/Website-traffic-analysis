@@ -19,7 +19,7 @@ Tools used: SQL (Google BigQuery)
 
 ## I. Background & Overview
 
-Objective:
+### Objective:
 
 This project uses Google BigQuery SQL platform to explore ecommerce dataset from Google Analytics to:
 
@@ -27,7 +27,7 @@ This project uses Google BigQuery SQL platform to explore ecommerce dataset from
 
 ✔️ Identify the behavior in customers who visit the website.
 
-👤 Who is this project for?
+### Who is this project for?
 
 ✔️ Data analysts & business analysts
 
