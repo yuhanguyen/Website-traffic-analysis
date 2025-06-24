@@ -8,16 +8,16 @@ Date: 19/02/2025
 Tools used: SQL (Google BigQuery)
 
 ## Table of Contents
-[I. Introduction](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#i-introduction)
+[I. Background & Overview](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#i-introduction)
 
 [II. Requirement](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#ii-requirement)
 
 [III. Dataset Access](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#iii-dataset-access)
 
-[IV. Explore the dataset](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#iv-explore-the-dataset)
+[IV. Main Process](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#iv-explore-the-dataset)
 
 
-## I. Introduction
+## I. Background & Overview
 
 Objective:
 
@@ -47,7 +47,7 @@ The E-Commerce dataset is stored in a public Google BigQuery Dataset. To access 
 + Enter the project ID 'bigquery-public-data.google_analytics_sample.ga_sessions" and click "Enter"
 + Click on "ga_sessions_" table to open it.
 
-## IV. Explore the dataset
+## IV. Main Process
 In this project, i will write 08 queries based on the E-Commerce Dataset
 
 ### -- Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
