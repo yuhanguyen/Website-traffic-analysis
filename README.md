@@ -8,7 +8,7 @@ Date: 19/02/2025
 Tools used: SQL (Google BigQuery)
 
 ## Table of Contents
-[I. Background & Overview](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#i-background-&-overview)
+[I. Background & Overview](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#i-background--overview)
 
 [II. Requirement](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#ii-requirement)
 
