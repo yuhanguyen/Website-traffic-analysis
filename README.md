@@ -1,4 +1,4 @@
-# Explore E-Commerce Dataset
+# Website traffic analysis in E-commerce Using SQL 
 Used Google BigQuery to solve problems such as joining data, data manipulation from the E-commerce dataset.
 
 Author: Nguyen Anh Huy
