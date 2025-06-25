@@ -101,8 +101,7 @@ Result:
 
 Result:
 
-![image](https://github.com/user-attachments/assets/cc3a14ad-cf86-46d0-a409-e3a3b7face30)
-
+![image](https://github.com/user-attachments/assets/7e061f65-5fbe-47fb-8112-1999337be49f)
 
 ### -- Query 07: Other products purchased by customers who purchased the product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.
 
