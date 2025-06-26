@@ -1,5 +1,5 @@
 # Website traffic analysis in E-commerce Using SQL 
-Used Google BigQuery to solve problems such as joining data, data manipulation from the E-commerce dataset.
+Analyzed ~900k e-commerce website records using SQL in Google BigQuery to identify key traffic patterns, user drop-off points, and top-performing acquisition channels through advanced joins, CTEs, and data manipulation techniques.
 
 Author: Nguyen Anh Huy
 
