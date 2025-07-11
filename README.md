@@ -9,13 +9,13 @@ Date: 19/02/2025
 Tools used: SQL (Google BigQuery)
 
 ## Table of Contents
-[📌 Background & Overview](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#i-background--overview)
+[📌 Background & Overview](https://github.com/yuhanguyen1/Website-traffic-analysis-in-E-commerce-Using-SQL-?tab=readme-ov-file#-background--overview)
 
-[📂 Dataset Description & Data Structure](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#ii-requirement)
+[📂 Dataset Description & Data Structure](https://github.com/yuhanguyen1/Website-traffic-analysis-in-E-commerce-Using-SQL-?tab=readme-ov-file#-dataset-description--access)
 
-[⚒️ Main Process](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#iii-dataset-access)
+[⚒️ Main Process](https://github.com/yuhanguyen1/Website-traffic-analysis-in-E-commerce-Using-SQL-?tab=readme-ov-file#%EF%B8%8F-main-process)
 
-[🔎 Final Conclusion & Recommendations](https://github.com/yuhanguyen/Explore-E-Commerce-Dataset/blob/main/README.md#iv-main-process)
+[🔎 Final Conclusion & Recommendations](https://github.com/yuhanguyen1/Website-traffic-analysis-in-E-commerce-Using-SQL-?tab=readme-ov-file#-final-conclusion--recommendations)
 
 
 ## 📌 Background & Overview
