@@ -409,7 +409,7 @@ Result:
 
 1. **Focus on Direct & SEO**: Boost Google Ads and Search Engine Optimization spending and raise brand recognition to take advantage of high-converting direct traffic.
 2. **Improve the purchasing process**: Optimize the purchasing interface, especially the payment stage, to make it more convenient for customers.
-3. **Offers for cross-selling**: Make offers for products like "Google Sunglasses" or "Google Men's Vintage Badge Tee Black"
+3. **Offers for cross-selling**: Make offers for products like "Google Sunglasses" or "Google Men's Vintage Badge Tee Black".
 
 
 
