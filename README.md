@@ -8,7 +8,7 @@ Date: 19/02/2025
 
 Tools used: SQL (Google BigQuery)
 
-## Table of Contents
+## 📑 Table of Contents
 [📌 Background & Overview](https://github.com/yuhanguyen1/Website-traffic-analysis-in-E-commerce-Using-SQL-?tab=readme-ov-file#-background--overview)
 
 [📂 Dataset Description & Data Structure](https://github.com/yuhanguyen1/Website-traffic-analysis-in-E-commerce-Using-SQL-?tab=readme-ov-file#-dataset-description--access)
