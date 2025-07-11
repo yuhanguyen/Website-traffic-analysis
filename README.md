@@ -398,14 +398,14 @@ Result:
 
 ## 🔎 Final Conclusion & Recommendations
 
-📌 Insights
+### 📌 Insights
 
 + **Traffic trends**: Website traffic shows steady growth, with March 2017 recorded the highest traffic (69931). Pageviews and Transactions also had similar patterns.
 + **Revenue per traffic sources**: Direct source recorded the highest revenue (97333.6197) in June 2017, followed by Google Search (18757.1799) and dfa (Direct, From Address bar) with 8862.23. Other sources like mail.google.com and search.myway.com recorded negligible revenue.
 + **User behavior trends**: About 75% users who visited the website didn't purchase anything. For purchasers, they made an average of 4.16 transactions and spent about 43.86 per session in July 2017. Cross-selling is possible because customers who purchased the "YouTube Men's Vintage Henley" expressed interest in similar items like "Google Sunglasses" or "Google Men's Vintage Badge Tee Black".
 + **User journey**: Only about 35% users showed interest in the products by adding them to cart, and only about 30% users made their way to the payment step after selecting their items, recorded an average of 9.5% purchase rate for the whole journey (product view → add-to-cart → checkout → final purchase) across the first 3 months of 2017.
 
-📌 Recommendations
+### 📌 Recommendations
 
 1. **Focus on Direct & SEO**: Boost Google Ads and Search Engine Optimization spending and raise brand recognition to take advantage of high-converting direct traffic.
 2. **Improve the purchasing process**: Optimize the purchasing interface, especially the payment stage, to make it more convenient for customers.
